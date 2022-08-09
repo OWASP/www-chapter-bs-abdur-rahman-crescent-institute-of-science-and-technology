@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP BS Abdur Rahman Cresecent Institute of Science and Technology
+title: OWASP BS Abdur Rahman Crescent Institute of Science and Technology
 tags: example-tag
 region: Asia
 meetup-group:
