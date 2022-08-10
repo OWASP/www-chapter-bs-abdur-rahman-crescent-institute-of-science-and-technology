@@ -1,6 +1,6 @@
 ---
 layout: col-sidebar
-title: OWASP B.S. Abdur Rahman Crescent Institute of Science and Technology
+title: OWASP B.S. Abdur Rahman Crescent Institute of Science and Technology - Student Chapter
 tags: OWASP BSACIST
 region: Asia
 meetup-group:
