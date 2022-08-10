@@ -5,7 +5,7 @@ tags: OWASP BSACIST
 region: Asia
 meetup-group:
 country: India
-
+postal-code: Tamil Nadu 600048
 ---
 
 
