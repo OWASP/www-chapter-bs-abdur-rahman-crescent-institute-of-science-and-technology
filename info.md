@@ -2,6 +2,6 @@
 [Website](https://crescent.education/)
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-bs-abdur-rahman-crescent-ist-student-chapter/)
 
 
