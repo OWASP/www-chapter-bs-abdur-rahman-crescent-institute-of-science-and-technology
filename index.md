@@ -4,6 +4,7 @@ title: OWASP B.S. Abdur Rahman Crescent Institute of Science and Technology - St
 tags: OWASP BSACIST
 region: Asia
 country: India
+meetup-group: owasp-bs-abdur-rahman-crescent-ist-student-chapter
 
 ---
 
