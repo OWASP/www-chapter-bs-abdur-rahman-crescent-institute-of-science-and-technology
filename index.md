@@ -11,7 +11,7 @@ country: India
 
 ## Welcome
 
-![logo](assets/images/Crescent_logo-main.png)
+![logo](assets/images/Owasp Bsacist Logo.png)
 
 
 Since 1984, B.S. Abdur Rahman Crescent Institute of Science and Technology is a renowned Quality Leadership Institution located at the greenest spot of Chennai near Tambaram. Through our long history of 38 years of excellence, the Institution has offered access to a wide range of academic opportunities. The team of OWASP Student Chapter, one of the gilt-edged coding society, involves ingenious mind solvers who are eager to make the world a better place to live in with their innovative techniques and discoveries. 
