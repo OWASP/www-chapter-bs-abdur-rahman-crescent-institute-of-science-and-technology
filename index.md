@@ -37,7 +37,25 @@ knowledge, Ethical Hacking Skills, OSINT, Knowledge on different types of exploi
   organizations.
 * To collab with local OWASP Chapters and conduct events
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+## Aims
+* To form a community of students who are interested in technical field and assist 
+  them and build better version of them.
+* To provide the knowledge of web application securities.
+* Get to know the current OWASP top 10 vulnerabilities.
+* Spread awareness on various Cybersecurity threats and ways to use the Internet 
+  safe.
+* To make all active participants to receive bounty from companies for VRP
+  (Vulnerability Reward Programs) and register themselves in the Hall of Fame of 
+  those companies.
+* To make student’s CV and Resumes powerful by adding skills and merit certificates 
+  and make them confident for placements.
+* To conduct various non-Tech events regarding career opportunities, social 
+  engineering and other fun events.
+
+
+**Note**  
+
+Chapters are led by leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
 Everyone are welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
