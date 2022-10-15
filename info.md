@@ -3,5 +3,6 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-bs-abdur-rahman-crescent-ist-student-chapter/)
-
+* [Instagram](https://www.instagram.com/owasp_bsacist/?hl=en)
+* [Twitter](https://mobile.twitter.com/owasp_bsacist)
 
