@@ -39,7 +39,7 @@ Participating VRPs and Bug Bounties: Train students to participate in Vulnerabil
 * **Leadership Development:** Nurture leadership qualities among members, fostering confident, proactive Cybersecurity professionals.
 * **Ethical Hacking Mastery:** Enable students to delve into ethical hacking methodologies, bolstering their ability to safeguard systems.
 * **Addressing Workforce Demand:** Prepare students to meet the escalating demand for Cybersecurity professionals, contributing to a safer digital world.
-<OWASP{Web_s3cur1ty_Breach3d}>
+<!-- OWASP{Web_s3cur1ty_Breach3d}-->
 ## Goals
 * **Community Building:** Establish a cohesive community of technically inclined students, fostering mutual assistance and personal growth.
 * **Worldwide Security Expertise:** Impart comprehensive knowledge of Worldwide Cybersecurity, enabling students to comprehend vulnerabilities and safeguards.
