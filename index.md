@@ -15,49 +15,44 @@ meetup-group: owasp-bs-abdur-rahman-crescent-ist-student-chapter
 ![logo](assets/images/Owasp Bsacist Logoupdt.png)
 
 ## Overview
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
-OWASP B.S. Abdur Rahman Crescent Institute of Science and Technology is a Student Chapter which focuses on providing maximum Web Application Security 
-knowledge, Ethical Hacking Skills, OSINT, Knowledge on different types of exploitations,Malware Analysis and other skills to students. Members will get to know about Cyber Laws and Policies. Members will learn Vulnerability Assessments and Penetration Testing and will get to know how to get bounties from Vulnerability Reward Programs (VRP) provided by various companies. The need for cybersecurity professionals has been growing rapidly,even faster than companies can hire—and that demand is expected to continue. The number of unfilled cybersecurity jobs worldwide grew 350% between 2013 and 2021,from 1 million to 3.5 million, according to Cybersecurity Ventures.
+OWASP B.S. Abdur Rahman Crescent Institute of Science and Technology Student Chapter empowers students with essential Cybersecurity skills. This OWASP chapter offers free access to comprehensive resources including web security, ethical hacking, OSINT, malware analysis and much more. Members gain insights into cyber laws and forensics, corporate security techniques, and will gain experience in CTFs, a hackers’ competition. Addressing the surging demand for Cybersecurity experts, the chapter prepares students for a rapidly growing field where unfilledglobal Cybersecurity positions surged by 350% from 2013 to 2023, reaching 3.5 million (Cybersecurity Ventures).
+
+## Tagline
+“Collaborate, Innovate, Secure”
+
+## Vision
+Empowering students with cutting-edge Cybersecurity expertise to shape a secure digital future through accessible education and practical skills.
+
+## Mission
+* The University will be able to cater its technical security needs through the club.
+* Students will be able to grasp, earn and develop their security skills.
+* Make a healthy relation among students and alumni to know about the latest industry trends.
 
 ## Objectives
-* To Conduct Guest lectures from renowned Cybersecurity Experts.
-* Get the fundamentals strong first. Gain knowledge on Computer networks, 
-  Operating systems, Servers, Linux and programming languages.
-* Arrange theoretical and practical workshops on various Ethical Hacking techniques 
-  and emerging technological trends.
-* Master and get trained top-notch techniques in security field practically.
-* Cybersecurity is a very broad field. Gain knowledge on various Web 2.0 and Web 3.0 
-  technologies and its vulnerabilities. 
-* Hardware securities demands are increasing day by day. This chapter provides 
-  workshops on exploitations based on IoT devices and RFID Hacking and Wireless 
-  Hacking.
-* Have knowledge on different types of cryptography.
-* Encourage and guide students to build mini projects.
-* Facilitate internship and hands on industry training in partnership with 
-  organizations.
-* To collab with local OWASP Chapters and conduct events
+* **Skill Enhancement:** Provide students with in-depth understanding of Web security, Ethical hacking, OSINT, and Malware Analysis.
+* **Awareness of Cyber Laws:** Educate members about legal and ethical aspects of Cybersecurity, ensuring responsible digital practices.
+* **Vulnerability Assessment:** Equip students with hands-on experience in identifying vulnerabilities and conducting comprehensive assessments.
+* **Penetration Testing Proficiency:** Develop members’ expertise in Penetration Testing techniques for robust defense strategies.
+Participating VRPs and Bug Bounties: Train students to participate in Vulnerability Reward Programs, and bug bounty cultivating their ability to secure digital systems.
+* **Community Engagement:** Foster a collaborative environment where students can exchange insights, share resources, and learn from peers.
+* **Industry Alignment:** Bridge the gap between academic learning and industry needs by providing practical, industry-relevant skills.
+* **Leadership Development:** Nurture leadership qualities among members, fostering confident, proactive Cybersecurity professionals.
+* **Ethical Hacking Mastery:** Enable students to delve into ethical hacking methodologies, bolstering their ability to safeguard systems.
+* **Addressing Workforce Demand:** Prepare students to meet the escalating demand for Cybersecurity professionals, contributing to a safer digital world.
 
-## Aims
-* To form a community of students who are interested in technical field and assist 
-  them and build better version of them.
-* To provide the knowledge of web application securities.
-* Get to know the current OWASP top 10 vulnerabilities.
-* Spread awareness on various Cybersecurity threats and ways to use the Internet 
-  safe.
-* To make all active participants to receive bounty from companies for VRP
-  (Vulnerability Reward Programs) and register themselves in the Hall of Fame of 
-  those companies.
-* To make student’s CV and Resumes powerful by adding skills and merit certificates 
-  and make them confident for placements.
-* To conduct various non-Tech events regarding career opportunities, social 
-  engineering and other fun events.
+## Goals
+* **Community Building:** Establish a cohesive community of technically inclined students, fostering mutual assistance and personal growth.
+* **Worldwide Security Expertise:** Impart comprehensive knowledge of Worldwide Cybersecurity, enabling students to comprehend vulnerabilities and safeguards.
+* **OWASP Top 10 Awareness:** Educate members about the prevailing OWASP top 10 vulnerabilities, enhancing their understanding of common threats.
+* **Cybersecurity Awareness:** Raise awareness about diverse Cybersecurity threats and promote safe internet practices among the student body.
+* **Career Guidance:** Organize non-technical events addressing career prospects, and engaging activities for holistic development.
+* **Hall of Fame Recognition:** Guide members in securing a place in companies’ Hall of Fame for their successful contributions to VRPs.
+* **Personal and Professional Growth:** Strive to transform students into better versions of themselves, equipping them with both technical prowess and life skills
 
-
-**Note**  
-
-Chapters are led by leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
-
-Everyone are welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+## Outcome
+The OWASP B.S. Abdur Rahman Crescent Institute of Science and Technology chapter serves as a responsive solution for the university’s technical requirements. Hosting inclusive events, including those for school children, will provide a glimpse into university life. Valuable insights shared by industry experts on social media platforms will extend its influence.
+Students will actualize their aspirations for learning, earning, and skill development. The chapter is committed to orchestrating internships and hands-on industry exposure, giving students a firsthand experience of the university’s excellence.
+Driven by enterprising students, B.S. Abdur Rahman Crescent Institute of Science and Technology leads with innovation, consistently anticipating opportunities ahead of its contemporaries.
 
 Next Meeting/Event 
 ---------------------
